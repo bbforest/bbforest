@@ -1,4 +1,6 @@
-### Hi there 👋
+## 거기 안녕! Hi there! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbforest&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+안녕하세요, 저는 파란대나무숲에 사는 하늘판다 에케입니다!<br>Hello, I'm EKE, a sky panda living in the bluebambooforest!
+<br><br>취미로 개발을 하고있습니다. 많은 관심 부탁드려요!<br>I am developing it as a hobby. Please give us a lot of support!
 
 <!--
 **bbforest/bbforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
